@@ -1,0 +1,29 @@
+[INFO ] 2020-05-15 18:32:37.649 [main] HiberneteExample01Application - Starting HiberneteExample01Application on DESKTOP-DVEVJTF with PID 8564 (D:\SIESROIM\Projets\SpringToolSuite\HiberneteExample01\target\classes started by SIES in D:\SIESROIM\Projets\SpringToolSuite\HiberneteExample01)
+[DEBUG] 2020-05-15 18:32:37.663 [main] HiberneteExample01Application - Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+[INFO ] 2020-05-15 18:32:37.665 [main] HiberneteExample01Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-05-15 18:32:39.669 [main] HibernateConfiguration - ....Crea el SesionFactory.
+[INFO ] 2020-05-15 18:32:39.669 [main] HibernateConfiguration - ....Creo el SesionFactory.
+[INFO ] 2020-05-15 18:32:39.670 [main] HibernateConfiguration - ....Crea el Data Source.
+[INFO ] 2020-05-15 18:32:39.767 [main] HibernateConfiguration - ....Sale del Data Source.
+[INFO ] 2020-05-15 18:32:39.788 [main] HibernateConfiguration - ....Sale del SesionFactory.
+[INFO ] 2020-05-15 18:32:46.257 [main] HiberneteExample01Application - Started HiberneteExample01Application in 9.022 seconds (JVM running for 11.212)
+[INFO ] 2020-05-15 18:33:02.662 [http-nio-9898-exec-1] CustomerDaoImpl - ....Entra a al getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:02.663 [http-nio-9898-exec-1] CustomerDaoImpl - ....Sale del crea session.
+[INFO ] 2020-05-15 18:33:02.664 [http-nio-9898-exec-1] CustomerDaoImpl - ....Está conectado.
+[INFO ] 2020-05-15 18:33:02.818 [http-nio-9898-exec-1] CustomerDaoImpl - ....Sale del getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:12.165 [http-nio-9898-exec-3] CustomerDaoImpl - ....Entra a al getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:12.165 [http-nio-9898-exec-3] CustomerDaoImpl - ....Sale del crea session.
+[INFO ] 2020-05-15 18:33:12.165 [http-nio-9898-exec-3] CustomerDaoImpl - ....Está conectado.
+[INFO ] 2020-05-15 18:33:12.172 [http-nio-9898-exec-3] CustomerDaoImpl - ....Sale del getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:17.990 [http-nio-9898-exec-6] CustomerDaoImpl - ....Entra a al getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:17.990 [http-nio-9898-exec-6] CustomerDaoImpl - ....Sale del crea session.
+[INFO ] 2020-05-15 18:33:17.991 [http-nio-9898-exec-6] CustomerDaoImpl - ....Está conectado.
+[INFO ] 2020-05-15 18:33:17.992 [http-nio-9898-exec-6] CustomerDaoImpl - ....Sale del getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:22.554 [http-nio-9898-exec-8] CustomerDaoImpl - ....Entra a al getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:22.554 [http-nio-9898-exec-8] CustomerDaoImpl - ....Sale del crea session.
+[INFO ] 2020-05-15 18:33:22.554 [http-nio-9898-exec-8] CustomerDaoImpl - ....Está conectado.
+[INFO ] 2020-05-15 18:33:22.557 [http-nio-9898-exec-8] CustomerDaoImpl - ....Sale del getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:26.564 [http-nio-9898-exec-10] CustomerDaoImpl - ....Entra a al getAllCustomers y crea session
+[INFO ] 2020-05-15 18:33:26.564 [http-nio-9898-exec-10] CustomerDaoImpl - ....Sale del crea session.
+[INFO ] 2020-05-15 18:33:26.565 [http-nio-9898-exec-10] CustomerDaoImpl - ....Está conectado.
+[INFO ] 2020-05-15 18:33:26.566 [http-nio-9898-exec-10] CustomerDaoImpl - ....Sale del getAllCustomers y crea session
